@@ -157,7 +157,7 @@ if submit:
 
     try:
         response = requests.post(
-            "https://credit-risk-api-qpbe.onrender.com/predict",
+            "https://credit-risk-assessment-system-paov.onrender.com/predict",
             json=payload
         )
 

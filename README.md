@@ -10,10 +10,7 @@ The system is fully deployed with a FastAPI backend and a Streamlit frontend.
 ## 🚀 Live Demo
 
 **Web Application (Streamlit):**  
-👉 https://<your-streamlit-app>.streamlit.app
-
-**Backend API (FastAPI – Swagger UI):**  
-👉 https://<your-render-api>.onrender.com/docs
+👉 https://credit-risk-predictor-15.streamlit.app/
 
 ---
 
